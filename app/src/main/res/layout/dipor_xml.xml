@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_horizontal"
+        android:textStyle="bold"
+        android:textSize="@dimen/textsize"
+        android:layout_margin="@dimen/margin"
+        android:text="@string/Dipor_name"/>
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/image_height"
+        android:scaleType="fitCenter"
+        android:padding="@dimen/details_padding"
+        android:src="@drawable/deepor"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:fontFamily="sans-serif-smallcaps"
+        android:background="@color/details_color"
+        android:textColor="@color/textcolor"
+        android:padding="@dimen/details_padding"
+        android:layout_marginLeft="@dimen/details_margin"
+        android:layout_marginRight="@dimen/details_margin"
+        android:layout_marginBottom="@dimen/details_margin"
+        android:textSize="@dimen/details_textsize"
+        android:text="@string/Dipor_details"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:fontFamily="sans-serif-smallcaps"
+        android:background="@color/addr_color"
+        android:textColor="@color/textcolor"
+        android:padding="@dimen/details_padding"
+        android:textStyle="bold"
+        android:layout_margin="@dimen/margin"
+        android:text="@string/Dipor_addr"/>
+
+        </LinearLayout>
+
+    </ScrollView>
+
+</LinearLayout>

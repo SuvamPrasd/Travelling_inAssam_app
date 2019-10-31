@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">GoToAssam</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <!--Best Places names-->
+    <string name="kamakhya_name">Kamakhya Temple</string>
+    <string name="Umananada_name">Umananda Devaloi</string>
+    <string name="Assamzoo_name">Assam Zoo</string>
+    <string name="Srimanta_name">Kalakshetra</string>
+    <string name="Dipor_name">Dipor Bil</string>
+
+    <!--Best places details-->
+    <string name="kamakhya_details">The Kamakhya Temple also known as Kamrup-Kamakhya temple, Kamakhya Devalaya, is a Hindu temple dedicated to the mother goddess Kamakhya. It is one of the oldest of the 51 Shakti Pithas.</string>
+    <string name="Umananda_details">Umananda Devaloi is a Shiva temple located at the Peacock Island in the middle of river Brahmaputra just opposite the office of the Deputy Commissioner of Kamrup or the Kachari Ghat in Guwahati. It was built by the Ahom King Gadadhar Singha, who was a devout Shaivaite.</string>
+    <string name="Assamzoo_details">The Assam State Zoo cum Botanical Garden is the largest of its kind in the North East region and it is spread across 432 acre. The zoo is located within the Hengrabari Reserved Forest at Guwahati, India.</string>
+    <string name="Srimanta_details">Srimanta Sankaradev Kalakshetra commonly Kalakshetra is a cultural institution in the Panjabari area of Guwahati, Assam, named after the medieval poet-playwright and reformer Srimanta Sankardev.</string>
+    <string name="Dipor_details">Dipor Bil, also spelt Deepor Beel, is located to the south-west of Guwahati city, in Kamrup district of Assam, India It is a permanent freshwater lake, in a former channel of the Brahmaputra River, to the south of the main river.</string>
+
+    <!--Best places address-->
+    <string name="kamakhya_addr">Address: Kamakhya, Guwahati, Assam 781010</string>
+    <string name="Umananda_addr">Address: Peacock Island, Baruah Souk, North Guwahati, Guwahati, Assam 781030</string>
+    <string name="Assamzoo_addr">Address: RG Baruah Rd, Ambikagirinagar, Guwahati, Assam 781005</string>
+    <string name="Srimanta_addr">Address: Panjabari Rd, Batahguli, Guwahati, Assam 781037</string>
+    <string name="Dipor_addr">Address: Guwahati, Kamrup district, Assam</string>
+
+</resources>
