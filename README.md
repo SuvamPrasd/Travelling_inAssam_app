@@ -20,7 +20,7 @@ It is an app for new travellers who wanted to visit favourite destination or pla
 * And now you can make pull request.
 
 Screenshots- 
+https://github.com/SuvamPrasd/Travelling_inAssam_app/blob/master/Screenshot_20191031-134016_1.png
 
-![Screenshot](Screenshot_20191031-134016_1.png)
 
 Thank You !
